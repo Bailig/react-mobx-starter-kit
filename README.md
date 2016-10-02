@@ -1,2 +1,2 @@
 # react-mobx-starter-kit
-My
+My react mobx starter kit.

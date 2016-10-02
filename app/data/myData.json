@@ -1,0 +1,115 @@
+{
+    "FirstName": "Bailig",
+    "LastName": "Abhanar",
+    "Language": ["English", "Mandarin", "Mongolian"],
+    "Location": "Toronto",
+    "Role": [
+        {
+            "RoleId": 0,
+            "Title": "GIS Technician",
+            "Ability": {
+                "Mapping": 5,
+                "Geodatabase": 5,
+                "ProgrammingForGIS": 5,
+                "DataAcquisition": 4,
+                "ImageryInterpretation": 3,
+            },
+            "Skill": {
+                "Python": 5,
+                "CSharp": 4,
+                "ArcGISDesktop": 5,
+                "ArcGISOnline": 4,
+                "AutoCAD": 3,
+                "ArcGISServer":2,
+                "ArcGISAPI": 3,
+                "GoogleMapAPI": 3,
+                "PersonalFileGeodatabase": 5,
+                "EnterpriseGeodatabase": 2,
+                "PostgreSQL": 4,
+                "SQLServer": 1,
+                "ArcPad": 3,
+                "VectorEditing": 5,
+                "RasterAnalysis": 4
+            }
+        },
+        {
+            "RoleId": 2,
+            "Title": "Web Developer",
+            "Ability": {
+                "Design": 2,
+                "Code": 4,
+                "FrontEnd": 4,
+                "BackEnd": 3
+            },
+            "Skill": {
+                "HTML": 5,
+                "CSS": 4,
+                "Sass": 4,
+                "Bootstrap": 4,
+                "ES6":4,
+                "jQuery": 4,
+                "Reactjs": 4,
+                "ReactRedux": 4,
+                "ASP": 3,
+                "Gulp": 3,
+                "Webpack": 3
+            }
+        }
+    ],
+    "Project": [
+        {
+            "ProjectId": 1,
+            "Title": "Developing a Story Map Strategy for Canada’s 150th Anniversary",
+            "Location": "Ottawa",
+            "StartDate": "2016-01",
+            "EndDate": "2016-08",
+            "Sponsor": [
+                {
+                    "SponsorId": 1,
+                    "FirstName": "",
+                    "LastName": "Jaja",
+                    "Organization": "Canada Science and Technology Museum"
+                },
+                {
+                    "SponsorId": 2,
+                    "FirstName": "Mike",
+                    "LastName": "Ballard",
+                    "Organization": "Algonquin College"
+                }
+            ],
+            "Description": "",
+            "URL": "",
+            "Image": "",
+            "Work": {
+                "ArcGISDesktop": "10%",
+                "ArcGISOnline": "20%",
+                "JavaScript": "40%",
+                "CSharp": "30%"
+            }
+        },
+        {
+            "ProjectId": 2,
+            "Title": "Developing a Web Application for Managing GIS Students' Projects",
+            "Location": "Ottawa",
+            "StartDate": "2016-08",
+            "EndDate": "2016-10",
+            "Sponsor": [
+                {
+                    "SponsorId": 1,
+                    "FirstName": "Mike",
+                    "LastName": "Ballard",
+                    "Organization": "Algonquin College"
+                }
+            ],
+            "Description": "",
+            "URL": "",
+            "Image": "",
+            "Work": {
+                "ASP": "60%",
+                "jQuery": "10%",
+                "Bootstrap": "15%",
+                "Sass": "15%"
+            }
+        }
+    ]
+}
